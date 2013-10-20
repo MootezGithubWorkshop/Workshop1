@@ -6,6 +6,7 @@ import javax.swing.JLabel;
 dbhdwgnhgfn
 dgnhgfnfg
 gnfgnfcb vcx
+fuck you j i must be doin' die
  */
 import java.awt.FlowLayout;
 import java.awt.Font;
